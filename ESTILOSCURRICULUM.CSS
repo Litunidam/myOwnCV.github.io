@@ -1,0 +1,197 @@
+
+#div1{
+    position: relative;
+    height: 102%;
+    width: 25%;
+    background-color: rgb(202, 139, 57);
+    animation-duration: 3s;
+    animation-name: arriba;
+}
+@keyframes arriba{
+    from {
+        right: 1000px;
+    }
+}
+#fotodni{
+    margin-top: 8%;
+    margin-left: 30%;
+    position: relative;
+    width: 35%;
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 100%;
+    height: 18%;
+
+}
+#nombreg{
+    position: relative;
+    text-align: center;
+    margin-left: -5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#divizq{
+    position: absolute;
+    left: 26%;
+    top: 45%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#direccion{
+    position: absolute;
+    height: 15%;
+    width: 15%;
+    left: -18%;
+    top: 7%;
+}
+#tlf{
+    position: absolute;
+    height: 12%;
+    width: 12%;
+    left: -16%;
+    top: 45%;
+}
+#correo{
+    position: absolute;
+    height: 15%;
+    width: 15%;
+    left: -18%;
+    top: 73%;
+}
+#botonhome{
+    width: 45%;
+    height: 13%;
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color:rgba(0, 0, 0, 0);
+    border-color: rgb(252, 249, 249);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    position: absolute;
+    left: 10%;
+}
+#botonhome:hover{
+    width: 45%;
+    height: 13%;
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color:rgba(0, 0, 0, 0.281);
+    border-color: rgb(252, 249, 249);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    position: absolute;
+    left: 10%;
+    top: 97%;
+}
+#div2{
+    position: relative;
+    height: 102%;
+    right: -26%;
+    width: 74%;
+    background-color: rgb(26, 25, 25);
+    top: -102%;
+    margin-top: 0px;
+    animation-duration: 3s;
+    animation-name: arriba;
+}
+#educacion{
+    position: absolute;
+    left: 15%;
+    top: 10%;
+    color: rgb(194, 171, 142);
+}
+#hr1{
+    position: absolute;
+    left: 15%;
+    top: 15%;
+    width: 25%;
+    height: 0.25%;
+    background-color: rgb(255, 255, 255);
+}
+.estiloparrafo{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 13%;
+    top: 16%;
+    color: rgb(163, 156, 147);
+    margin-top: 2%;
+}
+#experiencia{
+    position: absolute;
+    left: 15%;
+    top: 30%;
+    color: rgb(194, 171, 142);
+}
+#hr2{
+    position: absolute;
+    left: 15%;
+    top: 35%;
+    width: 25%;
+    height: 0.25%;
+    background-color: rgb(255, 255, 255);
+}
+.estilolista1{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 13%;
+    top: 36%;
+    color: rgb(163, 156, 147);
+    margin-top: 2%;
+}
+#aptitudes{
+    position: absolute;
+    left: 15%;
+    top: 48%;
+    color: rgb(194, 171, 142);
+}
+#hr3{
+    position: absolute;
+    left: 15%;
+    top: 53%;
+    width: 25%;
+    height: 0.25%;
+    background-color: rgb(255, 255, 255);
+}
+.estilolista2{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 13%;
+    top: 54%;
+    color: rgb(163, 156, 147);
+    margin-top: 2%;
+}
+#idiomas{
+    position: absolute;
+    left: 15%;
+    top: 66%;
+    color: rgb(194, 171, 142);
+}
+#hr4{
+    position: absolute;
+    left: 15%;
+    top: 71%;
+    width: 25%;
+    height: 0.25%;
+    background-color: rgb(255, 255, 255);
+}
+.estilolista3{
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 13%;
+    top: 72%;
+    color: rgb(163, 156, 147);
+    margin-top: 2%;
+}
